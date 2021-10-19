@@ -1,1 +1,2 @@
 # AutomaticFileSorter
+Our program is designed to help students quickly and efficiently organize their files. The student will first be prompted to list all their courses, and our program will create a file directory for each course. After that, the student will input the name of a file they want sorted. Our program will search their computer for that file and sort it into the corresponding course folder.
